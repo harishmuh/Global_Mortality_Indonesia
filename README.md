@@ -36,5 +36,7 @@ In summary, Indonesia's 30-year mortality profile differs from the global patter
 * Healthcare Industry: Invest in research and development of affordable treatments and collaborate with governments on public health initiatives.
 * Communities: Raise awareness about health challenges and promote healthy behaviors within communities.
 
-## Data visualization
+## Assets
 * Data Visualizations: https://global-mortality-cause-in-indonesia.streamlit.app/ (Streamlit)
+* [Data Analyst Notebook](#)
+* [Presentation (PDF)] (#)
