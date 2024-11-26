@@ -37,6 +37,6 @@ In summary, Indonesia's 30-year mortality profile differs from the global patter
 * Communities: Raise awareness about health challenges and promote healthy behaviors within communities.
 
 ## Assets
-* Data Visualizations: https://global-mortality-cause-in-indonesia.streamlit.app/ (Streamlit)
-* [Data Analyst Notebook](#)
-* [Presentation (PDF)] (#)
+* [Data Visualizations](https://global-mortality-cause-in-indonesia.streamlit.app/) (Streamlit)
+* [Data Analyst Notebook](https://github.com/harishmuh/Global_Mortality_Indonesia/blob/main/global_mortality_diseases.ipynb)
+* [Presentation (PDF)](https://github.com/harishmuh/Global_Mortality_Indonesia/blob/main/Global%20mortality%20cause%20-%20Indonesia%20case%20study%20-%20Harish%20Muhammad.pdf)
