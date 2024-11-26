@@ -24,22 +24,18 @@ The raw data were obtained from the website of [Our World in Data](https://ourwo
 
 ## Insights
 
-**Global Mortality Trend from 1990 to 2019**
-
 ![Global Mortality Trend](https://github.com/harishmuh/Global_Mortality_Indonesia/blob/main/fig1.global_mortality_trend.PNG)
 
-
-**The top 5 Causes of Global Mortality**
 
 ![Top 5 cause Global Mortality](https://github.com/harishmuh/Global_Mortality_Indonesia/blob/main/fig2.global_mortality_cause_1990_2019.PNG)
 
 * The top global diseases in 30 years data consisting of heart diseases, cancers, chronic lung conditions, chest infections, and newborn health issues, posing significant public health and economic burdens.
 
 
-**Indonesia is on The Top 5 Country's List with The Highest Mortality**
-
 ![Top 5 Countries](https://github.com/harishmuh/Global_Mortality_Indonesia/blob/main/fig2.top_5_highest_mortaliy.PNG)
 
+* Indonesia is on The Top 5 Country's List with The Highest Mortality
+  
 
 **Indonesia's Mortality trend within 30 years data**
 
@@ -47,25 +43,32 @@ The raw data were obtained from the website of [Our World in Data](https://ourwo
 
 
 
-**Indonesia's Mortality Causes from 1990 to 1999**
+
 
 ![1990 to 1999](https://github.com/harishmuh/Global_Mortality_Indonesia/blob/main/fig4.global_mortality_cause_1990_1999.PNG)
-* 1990-1999: Heart diseases remained the leading cause of mortality, followed by tuberculosis and cancers.
 
-**Indonesia's Mortality Causes from 2000 to 2009**
+**Indonesia's Mortality Causes from 1990 to 1999**
+* Heart diseases remained the leading cause of mortality, followed by tuberculosis and cancers.
+
+
 
 ![2000 to 2009](https://github.com/harishmuh/Global_Mortality_Indonesia/blob/main/fig4.indo_mortality_cause_2000_2009.PNG)
-* 2000-2009: Heart diseases continued to dominate, followed by cancers and tuberculosis.
 
-**Indonesia's Mortality Causes from 2010 to 2019**
+**Indonesia's Mortality Causes from 2000 to 2009**
+* Heart diseases continued to dominate, followed by cancers and tuberculosis.
+
+
 
 ![2010 to 2019](https://github.com/harishmuh/Global_Mortality_Indonesia/blob/main/fig5.indo_mortality_cause_2010_2019.PNG)
-* 2010-2019: While heart diseases and cancers remained prevalent, tuberculosis mortality rates declined, however diabetes and chronic lung conditions are rising to the top 5 
 
-**Overall Indonesia's Mortality causes within 30 years of data**
+**Indonesia's Mortality Causes from 2010 to 2019**
+* While heart diseases and cancers remained prevalent, tuberculosis mortality rates declined, however diabetes and chronic lung conditions are rising to the top 5 
+
+
 
 ![30 years Indonesia](https://github.com/harishmuh/Global_Mortality_Indonesia/blob/main/fig6.indo_mortality_cause_all_30_years.PNG)
 
+**Comparison of Global Mortality Causes and Indonesia's Mortality Causes within 30 years of data**
 * While in global situation, Non-communicable (non infectious) diseases is dominating the trend rather than infectious diseases.
 * In contrast, Indonesia's 30-year mortality profile differs from the global pattern, with significant contributions from communicable diseases alongside non-communicable diseases. While non-communicable diseases like cardiovascular diseases and cancers are present, communicable diseases such as tuberculosis and diarrheal diseases play a more significant role in Indonesia.
 
